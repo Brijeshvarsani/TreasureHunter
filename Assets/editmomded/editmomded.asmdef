@@ -1,0 +1,9 @@
+{
+    "name": "editmomded",
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ]
+}
